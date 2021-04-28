@@ -1,0 +1,8 @@
+apply plugin: 'org.springframework.boot'
+
+dependencies {
+    implementation project(':domain-usecases')
+    implementation project(':entry-point-web')
+    implementation project(':driven-adapter-r2dbc-repositories')
+    implementation 'org.springframework.boot:spring-boot-starter'
+}
