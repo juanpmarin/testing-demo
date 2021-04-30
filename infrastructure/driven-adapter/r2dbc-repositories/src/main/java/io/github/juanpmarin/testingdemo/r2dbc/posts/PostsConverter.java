@@ -1,4 +1,4 @@
-package io.github.juanpmarin.testingdemo.web.r2dbc.posts;
+package io.github.juanpmarin.testingdemo.r2dbc.posts;
 
 
 import io.github.juanpmarin.testingdemo.model.posts.Post;

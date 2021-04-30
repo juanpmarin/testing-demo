@@ -1,4 +1,4 @@
-package io.github.juanpmarin.testingdemo.web.r2dbc;
+package io.github.juanpmarin.testingdemo.r2dbc;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;

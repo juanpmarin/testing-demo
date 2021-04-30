@@ -1,8 +1,8 @@
-package io.github.juanpmarin.testingdemo.web.r2dbc.posts;
+package io.github.juanpmarin.testingdemo.r2dbc.posts;
 
 import io.github.juanpmarin.testingdemo.model.posts.Post;
 import io.github.juanpmarin.testingdemo.model.posts.PostsGateway;
-import io.github.juanpmarin.testingdemo.web.r2dbc.AdapterOperations;
+import io.github.juanpmarin.testingdemo.r2dbc.AdapterOperations;
 import org.springframework.stereotype.Repository;
 
 

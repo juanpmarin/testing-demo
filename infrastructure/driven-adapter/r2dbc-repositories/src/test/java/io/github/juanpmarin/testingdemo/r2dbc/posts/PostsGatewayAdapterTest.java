@@ -1,8 +1,7 @@
-package io.github.juanpmarin.testingdemo.web.r2dbc.posts;
+package io.github.juanpmarin.testingdemo.r2dbc.posts;
 
 import io.github.juanpmarin.testingdemo.model.posts.Post;
 import org.junit.Test;
-import org.junit.jupiter.api.RepeatedTest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.AutoConfigurationPackage;
 import org.springframework.boot.test.autoconfigure.data.r2dbc.DataR2dbcTest;
